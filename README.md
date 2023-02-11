@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from India
+A Passionate Frontend Developer From India
 
 
 ## 🌐 Socials:
